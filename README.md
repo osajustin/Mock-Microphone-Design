@@ -1,3 +1,5 @@
 # Mock-Microphone-Design
 
-This project was created for my Engineering Foudnations lab class. Tasked with creating something in a CAD software, I decided to create a microphone. The silver/gray represent the outter shell of the microphone, the copper represents where all the electrical components would go, and the black represents the microphone shield. A few details were left out unintentionally but overall meet the expectations.
+This mock design is of a Focusrite Scarlett 2i2 Microphone created in Inventor. I wanted to test my skills and see how accurate measurements played a role in designing in CAD software.
+
+Parts 1 and 2 are just the shell/casing of the microhpone. The black part of Part 3 is the microphone with the shield attached, and the copper part is where the internal electronic components were stored.
